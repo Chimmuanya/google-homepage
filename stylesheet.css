@@ -9,18 +9,33 @@ body {
 span{
     padding: 3px;
 }
+
 a{
     padding: 2px;
+    color: rgba(0,0,0,0.70);
+    text-decoration-line: none;
+}
+button{
+  background-color: rgb(54, 54, 233);
+  border: none;
+  color: white;
+  padding: 4px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  
 }
 #header {
     color: #222;
-    display: block;
+    display: flex;
     font-family: Arial, sans-serif;
     font-size: 13px;
     position: absolute;
     top: 25px;
     left: 82%;
     width: max-content;
+    
 }    
 #content {
     width: 600px;
@@ -60,7 +75,9 @@ a{
 
 }
 #button1{
-    padding: 2px;
+  padding: 2px;
+
+ 
 
 }
 #button2{
