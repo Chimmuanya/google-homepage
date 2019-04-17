@@ -1,0 +1,149 @@
+body {
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    top: auto;
+    left: auto;
+}
+
+span{
+    padding: 3px;
+}
+a{
+    padding: 2px;
+}
+#header {
+    color: #222;
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 25px;
+    left: 82%;
+    width: max-content;
+}    
+#content {
+    width: 600px;
+    margin: 0 auto;
+    position: absolute;
+    top: 230px;
+    left: 35%;
+    text-align: left
+}
+    
+#footer {
+    
+    position: relative;
+    top: 98%;
+    background: lightgray;
+    border-style: ridge;
+}
+#span1{
+    position: relative;
+    left: 25px;
+    display: inline;
+}
+#span2{
+    position: relative;
+    left: 65%;
+    bottom: 0px;
+    display: inline;
+}
+#topspan{
+    position: relative;
+    left: 25px;
+}
+#field{
+    position: relative;
+    left: -87px;
+    padding: 7px;
+
+}
+#button1{
+    padding: 2px;
+
+}
+#button2{
+    padding: 2px;
+
+}
+#language{
+    padding: 10px;
+    position: absolute;
+    left: -67px;
+
+}body {
+                width: 100%;
+                height: 600px;
+                position: absolute;
+                top: auto;
+                left: auto;
+            }
+
+            span{
+                padding: 3px;
+            }
+            a{
+                padding: 2px;
+            }
+            #header {
+                color: #222;
+                display: block;
+                font-family: Arial, sans-serif;
+                font-size: 13px;
+                position: absolute;
+                top: 25px;
+                left: 82%;
+                width: max-content;
+            }    
+            #content {
+                width: 600px;
+                margin: 0 auto;
+                position: absolute;
+                top: 230px;
+                left: 35%;
+                text-align: left
+            }
+                
+            #footer {
+                
+                position: relative;
+                top: 98%;
+                background: lightgray;
+                border-style: ridge;
+            }
+            #span1{
+                position: relative;
+                left: 25px;
+                display: inline;
+            }
+            #span2{
+                position: relative;
+                left: 65%;
+                bottom: 0px;
+                display: inline;
+            }
+            #topspan{
+                position: relative;
+                left: 25px;
+            }
+            #field{
+                position: relative;
+                left: -87px;
+                padding: 7px;
+
+            }
+            #button1{
+                padding: 2px;
+
+            }
+            #button2{
+                padding: 2px;
+
+            }
+            #language{
+                padding: 10px;
+                position: absolute;
+                left: -67px;
+
+            }
